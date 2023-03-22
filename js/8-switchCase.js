@@ -1,5 +1,5 @@
 let gun = "carsamba"
-
+console.log("first")
 if (gun == 'pazartesi') {
     console.log("bugun gunlerde pazartesi")
 } else if (gun == 'sali') {
@@ -17,6 +17,7 @@ if (gun == 'pazartesi') {
 } else {
     console.log("hatali gun")
 }
+
 console.log("************************")
 switch (gun) {
     case 'pazartesi':
