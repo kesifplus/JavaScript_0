@@ -17,7 +17,7 @@ if (gun == 'pazartesi') {
 } else {
     console.log("hatali gun")
 }
-console.log("test")
+
 console.log("************************")
 switch (gun) {
     case 'pazartesi':
