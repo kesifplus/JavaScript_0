@@ -32,7 +32,7 @@ console.log(genelIsim)
 console.log("******************")
 
 // indexOf string içinde aranan kelimenin başlangıç index ini verir
-cumle = "javaScript Java C# Php Html Css"
+cumle = "javaScript java C# Php Html Css"
 console.log(cumle.indexOf("C#"))
 console.log(cumle.indexOf("hey"))
 console.log(cumle.indexOf("java"))
@@ -109,7 +109,7 @@ console.log(kelime.replaceAll(regex, 'ferret'));
 console.log("********endsWith **********")
 
 // endsWith cumlenin sonu paremetredeki deger ise true degilde false degerini verir
-kelime = "selam asli nasilsin asli"
+kelime = "selam asli nasilsin aslim"
 let isEndWord = kelime.endsWith("aslim")
 console.log(isEndWord)
 
@@ -123,6 +123,7 @@ kelime = "selam asli nasilsin asli"
 let yeni = kelime.split(" ")
 console.log(yeni)
     /*
+    ["selam","asli","nasilsin","asli"]
     let ornek = kelime.split("asli")
     console.log(ornek)
     */

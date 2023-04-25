@@ -1,5 +1,5 @@
 let isim = "mert"
-    // referan veri tipleridi
+    // referans veri tipleridi
 let isimler = ["ali", "veli", "mehmet", "merve", 52]
 console.log("isim = ", isim)
 console.log("isimler = ", isimler)

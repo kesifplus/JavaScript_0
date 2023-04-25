@@ -60,7 +60,7 @@ console.log("*****************")
 console.log("5 == 5 ", 5 == 5)
 console.log("6 == 50 ", 6 == 50)
 console.log("asli == asli ", "asli" == "asli")
-console.log("Asli == asli ", "asli" == "asli")
+console.log("Asli == asli ", "asli" == "Asli")
 console.log("Asli == asli ", "Asli".toLowerCase() == "asli".toLowerCase())
 console.log("50" == 50)
 
