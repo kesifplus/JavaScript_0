@@ -2,7 +2,7 @@
 // gun icersinde deger neyse ekranda 
 // by gun gunlerde sali dir
 
-let gun = 'persembe1'
+let gun = 'persembe'
     //console.log("bu gun gunlerden " + gun + "dir");
 
 if (gun == 'pazartesi') {
